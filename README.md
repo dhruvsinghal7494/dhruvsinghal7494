@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">Software Developer, Finance Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvsinghal1973&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsinghal1973" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvsinghal1973&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvsinghal1973" /> </p>
 
 - 🔭 I’m currently working on **Next App**
 
@@ -40,7 +40,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvsinghal1973&show_icons=true&locale=en&layout=compact" alt="dhruvsinghal1973" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvsinghal1973&show_icons=true&locale=en" alt="dhruvsinghal1973" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsinghal1973&" alt="dhruvsinghal1973" /></p>
 
