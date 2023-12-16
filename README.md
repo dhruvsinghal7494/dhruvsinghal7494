@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **dhruvsinghal1973@gmail.com**
 
-- ⚡ Fun fact ** the term "debugging" in programming originated from an actual insect.**
+- ⚡ Fun fact **The term "debugging" in programming originated from an actual insect.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
