@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, Js, NextJs**
 
+- 👨‍💻 Portfolio at [https://dhruv-singhal-portfolio.vercel.app/](https://dhruv-singhal-portfolio.vercel.app/)
+
 - 📫 How to reach me **dhruvsinghal1973@gmail.com**
 
 - ⚡ Fun fact **The term "debugging" in programming originated from an actual insect.**
