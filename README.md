@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, Js, NextJs**
 
-- 👨‍💻 Portfolio at [https://dhruv-singhal-portfolio.vercel.app/](https://dhruv-singhal-portfolio.vercel.app/)
+- 👨‍💻 Portfolio at [https://dhruv-singhal-portfolio.vercel.app/][(https://portfolio-dhruvsinghal.vercel.app/)]
 
 - 📫 Reach me at **dhruvsinghal1973@gmail.com**
 
